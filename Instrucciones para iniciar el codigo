@@ -1,5 +1,24 @@
-# Algoritmo_Dijkstra
-Alejandro Anci Yep, 20180084
-Está hecho en netbean.
-Es un codigo estandar; es decir, en una clase puede correr el archivo.
-Copiandolo y pegando sera suficiente para que el codigo corra. 
+Hay dos opciones:
+1) si tienes netbean, unicamente con el archivo "FunciónDijkstra". Copiar y pegar el contenido dentro del public class.
+  1.1)En el main, se debe cambiar donde dice "modifica t=new modifica()" por el nombre de la clase.
+  
+  
+Si desea usar el archivo modifa.java
+
+Para la ejecución* del código hay dos opciones:
+Opción 1 - Descargar el archivo:
+1. Descargar el archivo de extensión .java de preferencia en el disco C y guardar la ubicación ejm: C:\Users\HOME\Desktop\Modificacion\src\modifa
+2. Abrir el command prompt (o ventana de consola) del sistema e ingresar:
+2.1 Ubicación de la carpeta donde se guardó el archivo, siguiendo el ejemplo: C:\Users\HOME\Desktop\Modificacion\src
+2.2 Ingresar el comando: javac modifa.java -> Para compilar el código
+2.3 Ingresar el comando: java modifa.java -> Para ejecutar el código
+
+Opción 2 - Copiar en bloc de notas:
+1. Crear un archivo de bloc de notas y copiar el código del repositorio
+2. Guardar el archivo como NombreDeseado.java en la ubicación que se desee y guardar la unicación.
+3. Abrir el command prompt (o ventana de consola) del sistema e ingresar:
+3.1 Ubicación de la carpeta donde se guardó el archivo, siguiendo el ejemplo: C:\Users\HOME\Desktop\Modificacion\src
+3.2 Ingresar el comando: javac modifa.java -> Para compilar el código
+3.3 Ingresar el comando: java modifa.java -> Para ejecutar el código
+
+*Es necesario tener instalada y activada Java (versión 8 o +) en el ordenador
