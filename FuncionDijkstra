@@ -95,10 +95,11 @@ public class modifa {
     public static void main(String[] args) 
     { 
         
-        Scanner vertice= new Scanner(System.in);
+        /*Scanner vertice= new Scanner(System.in);
         System.out.println("Ingresa los vertices deseados");
         
-        int vert=vertice.nextInt();
+        int vert=vertice.nextInt();*/
+        int vert=5;
         /*
         try
         {
