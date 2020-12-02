@@ -1,3 +1,5 @@
+El archivo que debe ejecutrar es EJECUTAR_TXT.JAVA. ahi se encuentra el codigo fuente.
+
 El codigo está hecho para iniciar con un TXT como base de datos.
 
 1) La dirección debe estar con doble "//" o "\\" según la configuración la la maquina.
