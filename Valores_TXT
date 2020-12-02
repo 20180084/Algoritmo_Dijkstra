@@ -1,0 +1,54 @@
+El codigo está hecho para iniciar con un TXT como base de datos.
+
+1) La dirección debe estar con doble "//" o "\\" según la configuración la la maquina.
+ejemplo: C:\\Users\\HOME\\Desktop\\Redes Computadora\\Trabajo\\TXT\\prueba01.txt
+
+2) En el codigo debe buscar la linea donde se debe cambiar la dirección. Se encuentra en el main
+ejemplo:  BufferedReader bf = new BufferedReader(new FileReader("C:\\Users\\HOME\\Desktop\\Redes Computadora\\Trabajo\\TXT\\prueba01.txt"));
+
+3) Consta de 3 pruebas. A continuación le dejare las pruebas que debe copiar y pegar en un TXT.
+
+prueba 01
+
+7
+0
+0,2,5,0,0,0,0
+2,0,0,0,1,0,3
+5,0,0,5,3,0,0
+0,0,5,0,6,0,0
+0,1,3,6,0,2,0
+0,0,0,0,2,0,1
+0,3,0,0,0,1,0
+
+
+prueba02
+
+10
+1
+0,4,2,0,0,0,0,0,0,0
+4,0,2,3,0,0,0,5,0,0
+2,2,0,0,0,0,0,0,3,0
+0,3,0,0,4,3,0,0,0,0
+0,0,0,3,0,6,0,0,0,0
+0,0,0,3,6,0,8,0,0,0
+0,0,0,0,0,8,0,7,0,0
+0,5,0,0,0,0,7,0,0,4
+0,0,3,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,4,0,0
+
+prueba 03
+
+12
+0
+0,3,5,0,0,0,0,0,0,0,0,0
+3,0,0,4,0,0,10,0,0,5,5,0
+5,0,0,0,4,0,0,0,0,0,0,0
+0,4,0,0,0,3,0,0,0,0,0,0
+0,0,4,0,0,0,0,0,1,0,0,0
+0,0,0,3,0,0,0,1,0,0,0,3
+0,10,0,0,0,0,0,0,0,5,0,0
+0,0,0,0,0,1,0,0,1,0,0,0
+0,0,0,0,1,0,0,1,0,0,0,0
+0,5,0,0,0,0,3,0,0,0,0,0
+0,5,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,3,0,0,0,0,0,0
